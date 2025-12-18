@@ -19,3 +19,24 @@ A logic-based Sudoku solver implemented in **Java**. This project automatically 
 
 ---
 
+##  How to Run
+
+1. **Clone the repository**:
+```bash
+git clone https://github.com/Joshitha-03/sudokoSolver.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd sudokoSolver
+Open the game in your browser:
+
+Double-click on index.html OR
+
+Right-click → Open with → Browser of your choice (Chrome, Firefox, etc.)
+
+Play the game:
+
+The Sudoku grid will be displayed.
+
+Fill in the numbers according to Sudoku rules.
